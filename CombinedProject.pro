@@ -66,5 +66,4 @@ FORMS += \
         mainwindow.ui
 
 RESOURCES += \
-    images.qrc \
-    files.qrc
+    images.qrc
