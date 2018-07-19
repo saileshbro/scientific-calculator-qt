@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>images/unit.png</file>
+        <file>images/angle.png</file>
+        <file>images/area.png</file>
+        <file>images/length.png</file>
+        <file>images/mass.png</file>
+        <file>images/temp.png</file>
+        <file>images/time.png</file>
+        <file>images/volume.png</file>
+    </qresource>
+    <qresource prefix="/new/icons">
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/new/splash">
+        <file>splash.png</file>
+    </qresource>
+    <qresource prefix="/new/misc">
+        <file>img.jpeg</file>
+        <file>formulaimg.jpeg</file>
+        <file>about.jpg</file>
+    </qresource>
+</RCC>
